@@ -4,7 +4,7 @@ export default defineConfig({
   head: [
     [
       'link',
-      { rel: 'icon', href: '/public/favicon.ico' }
+      { rel: 'icon', href: '/favicon.ico' }
       // would render:
       //
       // <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
