@@ -13,9 +13,10 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Notes',
         items: [
           { text: 'First Note', link: '/first' },
+          { text: 'Pytorch工程的一般结构', link: '/pytorch' },
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]

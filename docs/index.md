@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: To My Github
       link: https://github.com/StarryZhang-whu
+    - theme: alt
+      text: To My ChatBot
+      link: https://chat.szhang.me
 
 features:
   - title: Who AM I 🤔️

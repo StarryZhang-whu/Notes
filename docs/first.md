@@ -2,4 +2,4 @@
 
 ## This is a Test Note.
 
-** Email: ** starrywhuzhang@gmail.com
+**Email:** starrywhuzhang@gmail.com
