@@ -5,13 +5,10 @@ export default defineConfig({
     [
       'link',
       { rel: 'icon', href: '/favicon.ico' }
-      // would render:
-      //
-      // <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     ],
   ],
   title: "Starry Zhang Notes",
-  description: "A Website for storing Starry Zhang notes, powered by VitePress.",
+  description: "A Website for storing Starry Zhang notes",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
