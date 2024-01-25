@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Starry Zhang Notes"
   text: "A Website for storing Starry Zhang notes. 📒"
-  tagline: "Reach me: starrywhuzhang@gmail.com"
+  tagline: "Reach me: starrywhuzhang@gmail.com starryzhang@whu.edu.cn"
   actions:
     - theme: brand
       text: Begin to Read 📖
@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: Who AM I 🤔️
-    details: Undergraduate from School of Computer Science. Wuhan University. UTC+8. Feel free to contact me on WeChat /starrywhu-zhang/.
+    details: Undergraduate from School of Computer Science, Wuhan University. UTC+8. Feel free to contact me on WeChat /starrywhu-zhang/.
   - title: Skills 🧑‍💻
     details: Deep Learning, NLP, Web Development, Unity, OpenSource. Chasing Artificial General Intelligence.
 ---
