@@ -7,8 +7,8 @@ export default defineConfig({
       { rel: 'icon', href: '/favicon.ico' }
     ],
   ],
-  title: "Starry Zhang Notes",
-  description: "A Website for storing Starry Zhang notes",
+  title: "Linghao Zhang Notes",
+  description: "A Website for storing notes",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

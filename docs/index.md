@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Starry Zhang Notes"
-  text: "A Website for storing Starry Zhang notes. 📒"
+  name: "Linghao Zhang Notes"
+  text: "A Website for storing notes. 📒 (TBD)"
   tagline: "Reach me: starrywhuzhang@gmail.com starryzhang@whu.edu.cn"
   actions:
     - theme: brand
